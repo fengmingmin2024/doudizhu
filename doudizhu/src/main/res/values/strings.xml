@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="label_name1">下家:</string>
+    <string name="label_name2">下家出过的牌</string>
+    <string name="label_name3">自己内容</string>
+    <string name="label_name4">上家内容</string>
+    <string name="label_name5">上家:</string>
+    <string name="label_name6">自己:</string>
+    <string name="label_name7">退出</string>
+</resources>
